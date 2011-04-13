@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "activerecord-import"
   s.version     = Activerecord::Import::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Zach Dennis"]
+  s.email       = ["zach.dennis@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{activerecord-import is a library for bulk inserting data using ActiveRecord.}
+  s.description = %q{For more information on activerecord-import please see its wiki: http://wiki.github.com/zdennis/activerecord-import/}
 
   s.rubyforge_project = "activerecord-import"
 
